@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 I don't think soo
 I think so
+=======
+Well I doo
+
+ssd
+>>>>>>> f2dc0a6ab03bee6682678b1eb3fbd5d5bde2b186
